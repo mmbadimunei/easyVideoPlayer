@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/eisenhiwer/24dotcom/bitbucket/android-apps-justnews/easyVideoPlayer/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/eisenhiwer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/dc95864a3b1b5a3f616fc3e2fb379c92/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,1011,1115",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,1110,1226"
+                    }
+                },
+                {
+                    "source": "/Users/eisenhiwer/24dotcom/bitbucket/android-apps-justnews/easyVideoPlayer/build/intermediates/bundles/debug/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,205,265,319,375,431,483",
+                        "endColumns": "46,48,53,59,53,55,55,51,50",
+                        "endOffsets": "97,146,200,260,314,370,426,478,529"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "532,579,628,682,742,796,852,908,960",
+                        "endColumns": "46,48,53,59,53,55,55,51,50",
+                        "endOffsets": "574,623,677,737,791,847,903,955,1006"
+                    }
+                }
+            ]
+        }
+    ]
+}

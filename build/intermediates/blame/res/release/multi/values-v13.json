@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

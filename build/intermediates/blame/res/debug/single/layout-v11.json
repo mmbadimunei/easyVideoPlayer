@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

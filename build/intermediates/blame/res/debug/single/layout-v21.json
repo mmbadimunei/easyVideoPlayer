@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/eisenhiwer/24dotcom/github/easy-video-player/library/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/eisenhiwer/.android/build-cache/2439dd9812108be2741c8a518eba8ad1b136afca/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
